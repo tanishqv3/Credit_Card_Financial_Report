@@ -32,8 +32,9 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 🛠️**Tools Used**
 
+Postresql
 Power BI Desktop
-For data transformation, dashboard building, and interactive visual storytelling.
+
 
 
 📌 **Use Cases**
