@@ -31,11 +31,13 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 
 🛠️**Tools Used**
+
 Power BI Desktop
 For data transformation, dashboard building, and interactive visual storytelling.
 
 
 📌 **Use Cases**
+
 This project is ideal for:
 
 Business analysts evaluating customer segmentation.
