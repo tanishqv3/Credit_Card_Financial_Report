@@ -2,6 +2,9 @@
 
 This Power BI project presents a comprehensive visual analysis of credit card customer demographics and transaction behaviors. The insights are generated from detailed datasets and visualized through interactive dashboards for business decision-making.
 
+**Objectives**
+To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+
 📁 **Project Files**
 
 **Credit_Card_Customer_Report.pdf** – A customer-level dashboard analyzing revenue, income, and interest by job, gender, age group, state, and education level.
