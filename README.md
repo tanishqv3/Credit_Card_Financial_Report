@@ -1,11 +1,15 @@
+📊 Credit Card Customer & Transaction Analysis Dashboard
+
 This Power BI project presents a comprehensive visual analysis of credit card customer demographics and transaction behaviors. The insights are generated from detailed datasets and visualized through interactive dashboards for business decision-making.
 
 📁 Project Files
-Credit_Card_Customer_Report.pdf – A customer-level dashboard analyzing revenue, income, and interest by job, gender, age group, state, and education level.
+**Credit_Card_Customer_Report.pdf** – A customer-level dashboard analyzing revenue, income, and interest by job, gender, age group, state, and education level.
 
-Credit_Card_Report.pdf – A transactional report showing insights on revenue by transaction type, card category, chip usage, and customer expenditure behavior.
+**Credit_Card_Report.pdf **– A transactional report showing insights on revenue by transaction type, card category, chip usage, and customer expenditure behavior.
+
 
 🔍 Key Insights
+
 🧑 Customer Report Highlights:
 Top Profitable Segments: Businessmen and white-collar professionals contribute the highest revenue.
 
@@ -24,9 +28,11 @@ Card Category Impact: Blue card users generate over ₹46M in revenue—over 80%
 
 Chip Usage Insights: Chip-based transactions dominate with over ₹34M in revenue.
 
+
 🛠️ Tools Used
 Power BI Desktop
 For data transformation, dashboard building, and interactive visual storytelling.
+
 
 📌 Use Cases
 This project is ideal for:
