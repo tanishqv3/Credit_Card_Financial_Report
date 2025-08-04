@@ -6,7 +6,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 **Credit_Card_Customer_Report.pdf** – A customer-level dashboard analyzing revenue, income, and interest by job, gender, age group, state, and education level.
 
-**Credit_Card_Report.pdf**– A transactional report showing insights on revenue by transaction type, card category, chip usage, and customer expenditure behavior.
+**Credit_Card_Transaction_Report.pdf**– A transactional report showing insights on revenue by transaction type, card category, chip usage, and customer expenditure behavior.
 
 
 🔍**Key Insights**
